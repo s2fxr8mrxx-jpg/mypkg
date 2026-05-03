@@ -1,4 +1,5 @@
 library(glue)
+library(dplyr)
 #' Title a function to paste string list like paste0
 #'
 #' @param list the  list of string that you want to paste
