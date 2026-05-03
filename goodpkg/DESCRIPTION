@@ -1,0 +1,14 @@
+Package: goodpkg
+Title: Create R Package In A Professional Way
+Version: 0.0.1
+Authors@R: 
+    person(given = "hongru", family = "Chen", email= "489917728@qq.com", role = c("aut", "cre"))
+Description: try achiving my first package
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Suggests: 
+    renv,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
