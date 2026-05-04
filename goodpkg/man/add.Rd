@@ -17,5 +17,5 @@ Title a function to paste string list like paste0
 }
 \examples{
 library(goodpkg)
-print(add(c('this ','function ','is ok')))
+print(add(c("this ", "function ", "is ok")))
 }

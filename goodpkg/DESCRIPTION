@@ -2,14 +2,14 @@ Package: goodpkg
 Title: Create R Package In A Professional Way
 Version: 0.0.1
 Authors@R: 
-    person(given = "hongru", family = "Chen", email= "489917728@qq.com", role = c("aut", "cre"))
+    person("hongru", "Chen", , "489917728@qq.com", role = c("aut", "cre"))
 Description: try achiving my first package
 License: MIT + file LICENSE
+Imports: 
+    glue
+Suggests: 
+    testthat (>= 3.0.0)
+Config/roxygen2/version: 8.0.0
+Config/tedestthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.3
-Suggests: 
-    dplyr,
-    renv,
-    testthat (>= 3.0.0)
-Config/testthat/edition: 3
