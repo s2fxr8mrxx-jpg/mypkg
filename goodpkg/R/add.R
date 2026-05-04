@@ -1,5 +1,3 @@
-library(glue)
-library(dplyr)
 #' Title a function to paste string list like paste0
 #'
 #' @param list the  list of string that you want to paste
@@ -12,7 +10,7 @@ library(dplyr)
 add <- function(list) {
   ans <- ""
   for (i in list) {
-    ans <- glue("{ans}{i}")
+    ans <- glue::glue("{ans}{i}")
   }
   ans
 }
