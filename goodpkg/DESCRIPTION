@@ -13,3 +13,4 @@ Config/roxygen2/version: 8.0.0
 Config/tedestthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
+URL: https://s2fxr8mrxx-jpg.github.io/mypkg/
