@@ -1,0 +1,8 @@
+pandoc: '3.4'
+pkgdown: 2.2.0
+pkgdown_sha: ~
+articles: {}
+last_built: 2026-05-04T14:05Z
+urls:
+  reference: https://s2fxr8mrxx-jpg.github.io/mypkg/reference
+  article: https://s2fxr8mrxx-jpg.github.io/mypkg/articles
