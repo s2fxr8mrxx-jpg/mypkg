@@ -10,3 +10,4 @@
 ^pkgdown$
 ^dev$
 ^codecov\.yml$
+^CODE_OF_CONDUCT\.md$

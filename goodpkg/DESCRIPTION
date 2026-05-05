@@ -1,9 +1,9 @@
 Package: goodpkg
-Title: Create R Package In A Professional Way
+Title: Create R Package In A Professional Way.
 Version: 0.0.1
 Authors@R: 
     person("hongru", "Chen", , "489917728@qq.com", role = c("aut", "cre"))
-Description: try achiving my first package
+Description: try achiving my first package.
 License: MIT + file LICENSE
 Imports: 
     glue

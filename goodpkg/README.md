@@ -8,6 +8,10 @@
 [![R-CMD-check](https://github.com/s2fxr8mrxx-jpg/mypkg/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/s2fxr8mrxx-jpg/mypkg/actions/workflows/R-CMD-check.yaml)
 [![Codecov test
 coverage](https://codecov.io/gh/s2fxr8mrxx-jpg/mypkg/graph/badge.svg)](https://app.codecov.io/gh/s2fxr8mrxx-jpg/mypkg)
+[![R-CMD-check](https://github.com/s2fxr8mrxx-jpg/mypkg/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/s2fxr8mrxx-jpg/mypkg/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/s2fxr8mrxx-jpg/mypkg/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/s2fxr8mrxx-jpg/mypkg/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/s2fxr8mrxx-jpg/mypkg/graph/badge.svg)](https://app.codecov.io/gh/s2fxr8mrxx-jpg/mypkg)
 
 <!-- badges: end -->
 
